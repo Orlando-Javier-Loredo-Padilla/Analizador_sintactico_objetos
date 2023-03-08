@@ -11,7 +11,7 @@ def main():
     print("Primer ejemplo: ")
     print("Cadena: hola+mundo")
     primerEjercicio("hola+mundo$")
-    print("Segundo ejemplo: ")
+    print("Cadena: Segundo ejemplo: ")
     print("a+b+c+d+e+f")
     segundoEjercicio("a+b+c+d+e+f$")
 
